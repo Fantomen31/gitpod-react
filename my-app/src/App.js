@@ -1,12 +1,12 @@
 import './App.css';
-import MethodsAsPropsParent from './components/MethodsAsPropsParent';
+import LifeCyclesCDM from './components/LifeCyclesCDM';
 
 
 
 function App() {
   return (
     <div className="App">
-      <MethodsAsPropsParent />
+      <LifeCyclesCDM />
     </div>
   );
 }
