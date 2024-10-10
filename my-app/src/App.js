@@ -1,12 +1,13 @@
 import './App.css';
-import ControlledForm from './components/ControlledForm';
+import UseEffectCounter from './components/UseEffectCounter';
+
 
 
 
 function App() {
   return (
     <div className="App">
-      <ControlledForm />
+      <UseEffectCounter />
     </div>
   );
 }
