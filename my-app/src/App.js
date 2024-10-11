@@ -1,5 +1,7 @@
 import './App.css';
-import UseEffectCounter from './components/UseEffectCounter';
+import HTTPHooks from './components/HTTPHooks';
+
+
 
 
 
@@ -7,7 +9,7 @@ import UseEffectCounter from './components/UseEffectCounter';
 function App() {
   return (
     <div className="App">
-      <UseEffectCounter />
+      <HTTPHooks/>
     </div>
   );
 }
